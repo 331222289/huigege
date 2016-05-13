@@ -1,0 +1,5 @@
+F:\08毕设\jqUploadify\jqUploadify\obj\Debug\ResolveAssemblyReference.cache
+F:\08毕设\jqUploadify\jqUploadify\bin\jqUploadify.dll
+F:\08毕设\jqUploadify\jqUploadify\bin\jqUploadify.pdb
+F:\08毕设\jqUploadify\jqUploadify\obj\Debug\jqUploadify.dll
+F:\08毕设\jqUploadify\jqUploadify\obj\Debug\jqUploadify.pdb
